@@ -1,0 +1,7 @@
+{
+    "name": "salvai-srv",
+    "version": "0.0.1",
+    "dependencies": {
+        "formidable": "^1.2.1"
+    }
+}
